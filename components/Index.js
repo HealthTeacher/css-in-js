@@ -11,7 +11,7 @@ const Index = props => (
         <Emotion />
         <Styletron />
       </div>
-    </StyletronProvider>,
+    </StyletronProvider>
   </div>
 );
 

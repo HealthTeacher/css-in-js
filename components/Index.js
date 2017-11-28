@@ -1,3 +1,6 @@
 import React from 'react';
+import Emotion from './Emotion';
 
-export default props => <h1>Hello, World!</h1>;
+const Index = props => <Emotion />;
+
+export default Index;

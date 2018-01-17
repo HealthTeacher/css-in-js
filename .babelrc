@@ -2,7 +2,8 @@
   "plugins": [
     "react-hot-loader/babel",
     "emotion",
-    "transform-object-rest-spread"
+    "transform-object-rest-spread",
+    "react-native-web"
   ],
   "presets": [["env", { "modules": false }], "react"]
 }
